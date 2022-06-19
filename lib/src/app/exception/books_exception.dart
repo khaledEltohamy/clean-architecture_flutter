@@ -1,0 +1,3 @@
+ class BookException implements Exception{
+   
+ }
